@@ -23,26 +23,21 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Henri Arno"
-  pronouns         : # example: ""  
   bio              : "PhD candidate working on data-driven decision support"
   location         : "Ghent, Belgium"
   employer         : "Ghent University"
-  uri              : # URL
   email            : "henri.arno@ugent.be" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Arno%2C+H"
   googlescholar    : "https://scholar.google.com/citations?user=ce8BmFgAAAAJ&hl=en"
-  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3912-5383"
-  semantic         : # URL
-  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "henriarnoUG"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
