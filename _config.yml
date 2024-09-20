@@ -21,7 +21,7 @@ repository               : "HenriArno/HenriArno.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Henri Arno.jpg"
   name             : "Henri Arno"
   bio              : "PhD candidate working on data-driven decision support"
   location         : "Ghent, Belgium"
