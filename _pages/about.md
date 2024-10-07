@@ -7,14 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary PhD candidate at Ghent University as part of the [text-to-knowledge research group](https://ugentt2k.github.io/) supervised by [prof. Thomas Demeester](https://tdmeeste.github.io/) (and co-supervised by [prof. Klaas Mulier](https://sites.google.com/site/mulierklaas/) and [prof. Joke Baeck](https://research.ugent.be/web/person/joke-baeck-0/nl)). Currently, I am working on a research project funded by the [Research Foundation Flanders (FWO)](https://researchportal.be/nl/project/causale-bayesiaanse-netwerken-en-neurale-netwerken-integreren-om-probabilistisch-te) focussed on estimating heterogeneous treatment effects from structured and unstructured data (e.g., electronic health records). More broadly, my research interest lies in data-driven decision support, particulary from unstructured data such as text. Previously, I had the opportunity to work on a [reasearch project](https://researchportal.be/nl/project/evaluatie-van-ondernemingen-moeilijkheden-door-gebruik-van-machine-learning-ontwikkeling) that aims to assist judges in enterprise court with the detection of financially distressed firms through predictive modelling, leveraging the structured and unstructed data from annual accounts. 
+I am an interdisciplinary PhD candidate at Ghent University, part of the [text-to-knowledge](https://ugentt2k.github.io/) research group, with a research focus on data-driven decision support. My work, funded by the Research Foundation Flanders [(FWO)](https://researchportal.be/nl/project/causale-bayesiaanse-netwerken-en-neurale-netwerken-integreren-om-probabilistisch-te), centers on estimating heterogeneous treatment effects from both structured and unstructured data (such as electronic health records). More broadly, I am particularly interested in the potential of unstructured data (like text) to extract meaningful insights and improve decision-making processes.
 
-If you have similar research interests or would like to discuss potential collaborations, feel free to reach out!
+Previously, I contributed to a [project](https://researchportal.be/nl/project/evaluatie-van-ondernemingen-moeilijkheden-door-gebruik-van-machine-learning-ontwikkeling) aimed at assisting judges in enterprise court with the detection of financially distressed firms. This involved using predictive modeling techniques on structured and unstructured data from annual accounts.
+
+If you share similar research interests or are interested in potential collaborations, please feel free to reach out!
+
+Background
+======
+
+Your background section reads well! It clearly outlines your academic journey, highlights your interests, and showcases your progression from your undergraduate studies to your current research. Here are a few minor suggestions for clarity and flow:
+
+My academic journey has been shaped by a broad interest in science and technology, which initially led me to pursue a B.Sc. in Business Engineering. During my undergraduate studies, I became increasingly interested in computer science, motivating me to enroll in the M.Sc. in Business Engineering: Data Analytics.
+
+After completing my master’s, I decided to further explore the intersection of computer science and business economics by joining an interdisciplinary research program. This applied project focused on detecting financially distressed firms through predictive modeling (see above) and allowed me to deepen my knowledge of AI and machine learning through specialized courses.
+
+Following my contributions to this project, I was awarded a grant from the Research Foundation Flanders (FWO) to pursue fundamental research in causal machine learning, which is what I am working on today.
+
 
 Publications
 ======
 An up-to-date overview of my publications can be found on [my Google Scholar profile](https://scholar.google.be/citations?user=ce8BmFgAAAAJ&hl=nl).
-
-Background
-======
-... work in progess ...
