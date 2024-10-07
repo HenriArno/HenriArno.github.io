@@ -17,9 +17,7 @@ Background
 ======
 My academic journey has been shaped by a broad interest in science and technology, which initially led me to pursue a B.Sc. in business engineering. During my undergraduate studies, I became increasingly interested in computer science, motivating me to enroll in the M.Sc. in business engineering: data analytics.
 
-After completing my master’s, I decided to further explore the intersection of computer science and business economics by joining an interdisciplinary research program. This applied project focused on detecting financially distressed firms through predictive modeling (see above) and allowed me to deepen my knowledge of AI and machine learning through specialized courses.
-
-Following my contributions to this project, I was awarded a grant from the Research Foundation Flanders (FWO) to pursue fundamental research in causal machine learning, which is what I am working on today.
+After completing my master’s, I decided to further explore the intersection of computer science and business economics by joining an interdisciplinary research program. This applied project focused on detecting financially distressed firms through predictive modeling (see above) and allowed me to deepen my knowledge of AI and machine learning through specialized courses. Recently, I was awarded a grant from the Research Foundation Flanders (FWO) to pursue fundamental research in causal machine learning, which is what I am working on today.
 
 
 Publications
