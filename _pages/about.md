@@ -15,9 +15,6 @@ If you share similar research interests or are interested in potential collabora
 
 Background
 ======
-
-Your background section reads well! It clearly outlines your academic journey, highlights your interests, and showcases your progression from your undergraduate studies to your current research. Here are a few minor suggestions for clarity and flow:
-
 My academic journey has been shaped by a broad interest in science and technology, which initially led me to pursue a B.Sc. in Business Engineering. During my undergraduate studies, I became increasingly interested in computer science, motivating me to enroll in the M.Sc. in Business Engineering: Data Analytics.
 
 After completing my master’s, I decided to further explore the intersection of computer science and business economics by joining an interdisciplinary research program. This applied project focused on detecting financially distressed firms through predictive modeling (see above) and allowed me to deepen my knowledge of AI and machine learning through specialized courses.
