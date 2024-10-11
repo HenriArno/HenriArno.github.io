@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary PhD candidate at Ghent University, part of the [text-to-knowledge](https://ugentt2k.github.io/) research group, with a research focus on data-driven decision support. My work, funded by the Research Foundation Flanders [(FWO)](https://researchportal.be/nl/project/causale-bayesiaanse-netwerken-en-neurale-netwerken-integreren-om-probabilistisch-te), centers on estimating heterogeneous treatment effects from both structured and unstructured data. More broadly, I am particularly interested in the potential of unstructured data (like text) to extract meaningful insights and improve decision-making processes.
+I am an interdisciplinary PhD candidate at Ghent University, part of the [text-to-knowledge](https://ugentt2k.github.io/) research group, with a research focus on data-driven decision support. My work, funded by the Research Foundation Flanders [(FWO)](https://researchportal.be/nl/project/causale-bayesiaanse-netwerken-en-neurale-netwerken-integreren-om-probabilistisch-te), centers on estimating heterogeneous treatment effects from structured and unstructured data (such as text).
 
-Previously, I contributed to a [project](https://researchportal.be/nl/project/evaluatie-van-ondernemingen-moeilijkheden-door-gebruik-van-machine-learning-ontwikkeling) aimed at assisting judges in enterprise court with the detection of financially distressed firms. This involved using predictive modeling techniques on tabular and textual data from annual accounts.
+Previously, I contributed to a [research project](https://researchportal.be/nl/project/evaluatie-van-ondernemingen-moeilijkheden-door-gebruik-van-machine-learning-ontwikkeling) aimed at assisting judges in enterprise court with the detection of financially distressed firms. This involved using predictive modeling techniques on tabular and textual data from annual accounts.
 
 If you share similar research interests or are interested in potential collaborations, please feel free to reach out!
 
