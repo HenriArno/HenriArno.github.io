@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary PhD candidate at Ghent University, part of the [text-to-knowledge lab](https://ugentt2k.github.io/), with a research focus on data-driven decision support. My ongoing research, funded by the Research Foundation Flanders [(FWO)](https://researchportal.be/nl/project/causale-bayesiaanse-netwerken-en-neurale-netwerken-integreren-om-probabilistisch-te), involves estimating heterogeneous treatment effects from structured and unstructured data (particularly text). You can find my most recent paper on this topic [here](https://arxiv.org/abs/2409.15503). If you share similar research interests or if you are interested in potential collaborations, feel free to reach out!
+I am an interdisciplinary PhD candidate at Ghent University, part of the [text-to-knowledge research group](https://ugentt2k.github.io/), working on data-driven decision support. My ongoing research, funded by the Research Foundation Flanders [(FWO)](https://researchportal.be/nl/project/causale-bayesiaanse-netwerken-en-neurale-netwerken-integreren-om-probabilistisch-te), involves estimating heterogeneous treatment effects from structured and unstructured data (particularly text). You can find my most recent paper on this topic [here](https://arxiv.org/abs/2409.15503). If you share similar research interests or if you are interested in potential collaborations, feel free to reach out!
 
 Background
 ======
