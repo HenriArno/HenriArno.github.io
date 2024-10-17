@@ -4,6 +4,6 @@ layout: archive
 permalink: /research/
 ---
 
-A variety of common markup showing how the theme styles them.
+Under construction...
 
-# Test
+In the meantime, you can find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=ce8BmFgAAAAJ&hl=en)
