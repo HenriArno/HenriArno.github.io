@@ -1,5 +1,5 @@
 ---
-title: "Invited talks"
+title: "Invited talks and teaching activities"
 layout: archive
 permalink: /teachingandtalks/
 ---
@@ -25,7 +25,6 @@ March 2023 - Brussels, Belgium
 February 2023 - Ghent, Belgium  
 `Topic` Artificial intelligence in private and corporate law: some recent developments
 
-# Teaching activities
 During my PhD, I participated in the teaching activities outlined below.
 
 - **Master thesis supervision**
@@ -33,7 +32,7 @@ During my PhD, I participated in the teaching activities outlined below.
   - *Ongoing:* Currently supervising the thesis of 5 master students (diverse topics)  
   - *Programs:* Computer science engineering or business engineering
 
-- **Teaching assistence**
+- **Teaching assistance**
   - Machine-learning based natural language processing (master computer science engineering)    
   - Financial modelling (master business engineering)
   - Topics in corporate finance (master business engineering)
