@@ -7,4 +7,7 @@
 main:
   - title: "Publications"
     url: /publications/
+
+  - title: "Test"
+    url: /posts/
     
