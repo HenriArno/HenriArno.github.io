@@ -5,9 +5,10 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
 
-  - title: "Test"
-    url: /non-menu-page/
+  - title: "Teaching and Talks"
+    url: /teachingandtalks/
+
     
