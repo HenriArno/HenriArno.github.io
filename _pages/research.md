@@ -37,9 +37,9 @@ Journal: *Published in the Dutch legal journal "Tijdschrift voor privaatrecht"*
 - From Numbers to Words: Multi-Modal Bankruptcy Prediction Using the ECL Dataset  
 **Henri Arno**, Klaas Mulier, Joke Baeck and Thomas Demeester (2023)  
 Workshop: *Proceedings of the Sixth Workshop on Financial Technology and Natural Language Processing (FinNLP) at IJCNLP-AACL 2023*  
-[`paper`](https://aclanthology.org/2023.finnlp-2.2/) [`code`](github.com/henriarnoUG/ECL)
+[`paper`](https://aclanthology.org/2023.finnlp-2.2/) [`code`](https://github.com/henriarnoUG/ECL)
 
 - Next-Year Bankruptcy Prediction from Textual Data: Benchmark and Baselines  
 **Henri Arno**, Klaas Mulier, Joke Baeck and Thomas Demeester (2022)  
 Workshop: *Proceedings of the Fourth Workshop on Financial Technology and Natural Language Processing (FinNLP) at IJCAI-ECAI 2022*  
-[`paper`](https://aclanthology.org/2022.finnlp-1.25/) [`code`](github.com/henriarnoUG/ECL)
+[`paper`](https://aclanthology.org/2022.finnlp-1.25/) [`code`](https://github.com/henriarnoUG/ECL)
