@@ -1,5 +1,5 @@
 ---
-title: "Invited Talks and Teaching"
+title: "Invited talks and teaching"
 layout: archive
 permalink: /teachingandtalks/
 ---
