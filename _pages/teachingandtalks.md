@@ -1,10 +1,8 @@
 ---
-title: "Invited talks and teaching"
+title: "Invited talks"
 layout: archive
 permalink: /teachingandtalks/
 ---
-
-## Invited talks:
 Here is an overview of the invited talks I delivered throughout my PhD research (not including conference presentations).
 
 - **INSOL Europe Academic Forum (IEAF)**  
@@ -27,7 +25,7 @@ March 2023 - Brussels, Belgium
 February 2023 - Ghent, Belgium  
 `Topic` Artificial intelligence in private and corporate law: some recent developments
 
-## Teaching activities:
+# Teaching activities
 During my PhD, I participated in the teaching activities outlined below.
 
 - **Master thesis supervision**
