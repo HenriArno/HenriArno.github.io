@@ -5,9 +5,9 @@ permalink: /research/
 ---
 
 ## Heterogeneous treatment effect estimation
-**Description**: One of the central goals of causal machine learning is the accurate estimation of heterogeneous treatment effects from observational data. These estimates can guide decision-making in critical areas such as personalised medicine and public policy. This research project centers on estimating heterogeneous treatment effects from both structured (tabular) and unstructured (textual) data.
+**Description**: One of the central goals of causal machine learning is the accurate estimation of heterogeneous treatment effects from observational data. These estimates can guide decision-making in critical areas like personalised medicine and public policy. This research project centers on the estimation of heterogeneous treatment effects from both structured (tabular) and unstructured (textual) data.
 
-**Example:** Many real-world applications involve unstructured data, making this research highly relevant. For example, doctors need to identify which patients will benefit most from specific treatments to allocate them effectively. The necessary data for estimating these effects can be found in electronic medical records, where diagnostic information is recorded in clinical notes writen by physicians while patient background conditions are stored as tabular data.
+**Example:** In personlised medicine, doctors need to identify which patients will benefit most from specific medical treatments in order to allocate them effectively. The data required for estimating these treatment effects can be found in electronic medical records, where diagnostic information is recorded in clinical notes and patient background conditions are stored as tabular data. Many real-world applications involve structured and unstructured data, highlighting the relevance of this research.
 
 **Research output:**  
 - From Text to Treatment Effects: A Meta-Learning Approach to Handling Text-Based Confounding  
