@@ -9,23 +9,21 @@ permalink: /research/
 
 **Example:** Many real-world applications involve unstructured data, making this research highly relevant. For example, doctors need to identify which patients will benefit most from specific treatments to allocate them effectively. The necessary data for estimating these effects can be found in electronic medical records, where diagnostic information is recorded in clinical notes writen by physicians while patient background conditions are stored as tabular data.
 
-**Research output:**
-
+**Research output:**  
 From Text to Treatment Effects: A Meta-Learning Approach to Handling Text-Based Confounding  
 **Henri Arno**, Paloma Rabaey, and Thomas Demeester (2024)  
-*Workshop paper presented at the Causal Representation Learning workshop at NeurIPS 2024*
+*Workshop paper presented at the Causal Representation Learning workshop at NeurIPS 2024*  
 [`paper`](https://arxiv.org/abs/2409.15503)
 
 SynSUM - Synthetic Benchmark with Structured and Unstructured Medical Records  
 Paloma Rabaey, **Henri Arno** and Thomas Demeester (2024)  
-*ArXiv preprint*
+*ArXiv preprint*  
 [`paper`](https://arxiv.org/abs/2409.08936)  
 
 ## Detection of financially distressed firms through predictive modelling
 **Description**: In Belgium, each commercial court has one or more Chambers for Companies in Difficulty (CCD), that detect, investigate and monitor financially distressed companies. Recognizing the inefficiencies of manually selection, the goal of this project is to assist the judges of the commercial courts in the detection of companies in financial distress through predictive modelling. To this end, we have developed and evaluated several models to detect financial distress from both the numerical accounting data and the textual disclosures in corporate filings. 
 
-**Research output:**
-
+**Research output:**  
 The Numbers and Narrative of Bankruptcy: Interpretable Multi-Modal Business Failure Prediction  
 **Henri Arno**, Klaas Mulier, Joke Baeck and Thomas Demeester (2024)  
 *Under review at the Annals of Operations Research*  
