@@ -21,7 +21,7 @@ Preprint: *ArXiv preprint*
 [`paper`](https://arxiv.org/abs/2409.08936)  
 
 ## Detection of financially distressed firms through predictive modelling
-**Description**: In Belgium, each commercial court has one or more Chambers for Companies in Difficulty (CCD), that detect, investigate and monitor financially distressed companies. Recognizing the inefficiencies of manually selection, the goal of this project is to assist the judges of the commercial courts in the detection of companies in financial distress through predictive modelling. To this end, we have developed and evaluated several models to detect financial distress from both the numerical accounting data and the textual disclosures in corporate filings. 
+**Description**: In Belgium, each commercial court has one or more Chambers for Companies in Difficulty (CCDs) that detect, investigate and monitor financially distressed companies. Recognizing the inefficiencies of manually selection, the goal of this project is to assist the judges of the commercial courts in the detection of companies in financial distress through predictive modelling. To this end, we have developed and evaluated several models to detect financial distress from both the numerical accounting data and the textual disclosures in corporate filings. 
 
 **Research output:**  
 - The Numbers and Narrative of Bankruptcy: Interpretable Multi-Modal Business Failure Prediction  
