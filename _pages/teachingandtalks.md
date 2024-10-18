@@ -30,9 +30,10 @@ During my PhD, I participated in the teaching activities outlined below.
 - **Master thesis supervision**
   - *Completed:* Closely supervised the thesis of 7 master students (diverse topics)  
   - *Ongoing:* Currently supervising the thesis of 5 master students (diverse topics)  
-  - *Programs:* Computer science engineering or business engineering
+  - *Programs:* master business engineering: data analytics / master computer science engineering 
 
 - **Teaching assistance**
-  - Machine-learning based natural language processing (master computer science engineering)    
   - Financial modelling (master business engineering)
   - Topics in corporate finance (master business engineering)
+  - Machine-learning based natural language processing (master computer science engineering)    
+  
