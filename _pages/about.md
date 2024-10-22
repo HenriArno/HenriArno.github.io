@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary PhD candidate at Ghent University, part of the [Text-to-Knowledge](https://ugentt2k.github.io/) research group, working on data-driven decision support. My ongoing research, funded by the Research Foundation Flanders, involves estimating heterogeneous treatment effects from structured (tabular) and unstructured (textual) data. You can find my most recent paper on this topic [here](https://arxiv.org/abs/2409.15503). If you share similar research interests, feel free to reach out!
+I am an interdisciplinary PhD candidate at Ghent University, part of the [Text-to-Knowledge](https://ugentt2k.github.io/) research group, working on data-driven decision support. My ongoing research, funded by the Research Foundation Flanders, is focused on causal inference using unstructured data. In my most recent [paper](https://arxiv.org/abs/2409.15503), I explore estimating heterogeneous treatment effects from both tabular and textual data. If you share similar research interests, feel free to reach out!
 
 Background
 ======
