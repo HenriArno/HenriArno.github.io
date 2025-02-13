@@ -13,8 +13,8 @@ I am an interdisciplinary PhD candidate at Ghent University, part of the [Text-t
 
 Background
 ======
-- B.Sc. in Business Engineering (program at the faculty of economics with a strong quantitative component)
-- Participated in a two-year university-wide extracurricular research program for motivated B.Sc. students
-- Developed an interest in computer science throughout my M.Sc. in Business Engineering: Data Analytics
-- Contributed to a research project aiming to assist judges in commercial courts with the detection of financially distressed firms through predictive modeling
-- Awarded a grant from the Research Foundation Flanders (FWO) for fundamental research in causal machine learning
+- `2016-2019` B.Sc. in Business Engineering (program at the faculty of economics with a strong quantitative component)
+- `2017-2019` Participated in a two-year university-wide extracurricular research program for motivated B.Sc. students
+- `2019-2021` Developed an interest in computer science throughout my M.Sc. in Business Engineering: Data Analytics
+- `2021-2023` Contributed to a research project aiming to assist judges in commercial courts with the detection of financially distressed firms through predictive modeling
+- `2023-2027` Awarded a grant from the Research Foundation Flanders (FWO) for fundamental research in causal machine learning (started Nov. 2023)
