@@ -17,7 +17,7 @@ Workshop: *Presented at the Causal Representation Learning workshop at NeurIPS 2
 
 - SynSUM - Synthetic Benchmark with Structured and Unstructured Medical Records  
 Paloma Rabaey, **Henri Arno** and Thomas Demeester (2024)  
-Preprint: *ArXiv preprint*  
+Workshop: *Presented at the GenAI4Health workshop at AAAI 2025*  
 [`paper`](https://arxiv.org/abs/2409.08936)  
 
 ## Detection of financially distressed firms through predictive modelling
