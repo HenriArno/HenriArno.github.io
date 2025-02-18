@@ -15,5 +15,3 @@ Background
 - `2019-2021` Developed an interest in computer science throughout my M.Sc. in Business Engineering: Data Analytics
 - `2017-2019` Participated in a two-year university-wide extracurricular research program
 - `2016-2019` B.Sc. in Business Engineering (program at the faculty of economics with a strong quantitative component)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhenriarno.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
