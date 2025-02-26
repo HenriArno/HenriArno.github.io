@@ -7,15 +7,15 @@ Here is an overview of the invited talks I delivered throughout my PhD research 
 
 - **INSOL Europe Academic Forum (IEAF)**  
 October 2024 - Sorrento, Italy  
-`Topic` Assisting judges in commercial court with the detection of financially distressed firms through predictive modelling
+`Topic` Assisting judges in commercial court with the detection of financially distressed firms through predictive modeling
 
 - **Guest lecture: Law and economics**  
 February 2024 - Ghent, Belgium  
-`Topic` Guest lecture on the detection of financially distressed firms through predictive modelling for students of the Master of Laws in Law and Economics 
+`Topic` Guest lecture on the detection of financially distressed firms through predictive modeling for students of the Master of Laws in Law and Economics 
 
 - **Study event organised by the commercial court of Antwerp**  
 October 2023 - Antwerp, Belgium  
-`Topic` Assisting judges in commercial court with the detection of financially distressed firms through predictive modelling
+`Topic` Assisting judges in commercial court with the detection of financially distressed firms through predictive modeling
 
 - **Guest lecture: Introduction to artificial intelligence technologies**  
 March 2023 - Brussels, Belgium  
@@ -29,11 +29,11 @@ During my PhD, I participated in the teaching activities outlined below.
 
 - **Master thesis supervision**
   - *Completed:* Closely supervised the thesis of 7 master students (diverse topics)  
-  - *Ongoing:* Currently supervising the thesis of 5 master students (diverse topics)  
+  - *Ongoing:* Currently supervising the thesis of 6 master students (diverse topics)  
   - *Programs:* master business engineering: data analytics / master computer science engineering 
 
 - **Teaching assistance**
-  - Financial modelling (master business engineering)
+  - Financial modeling (master business engineering)
   - Topics in corporate finance (master business engineering)
   - Machine-learning based natural language processing (master computer science engineering)    
   
