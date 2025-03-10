@@ -14,7 +14,7 @@ permalink: /research/
 - From Text to Treatment Effects: A Meta-Learning Approach to Handling Text-Based Confounding  
 **Henri Arno**, Paloma Rabaey, and Thomas Demeester (2024)  
 Workshop: *Presented at the Causal Representation Learning workshop at NeurIPS 2024*  
-[`paper`](https://openreview.net/forum?id=wizeKpiYOb)
+[`paper`](https://arxiv.org/abs/2409.15503v3)
 
 - SynSUM - Synthetic Benchmark with Structured and Unstructured Medical Records  
 Paloma Rabaey, **Henri Arno** and Thomas Demeester (2024)  
