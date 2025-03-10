@@ -27,7 +27,7 @@ Workshop: *Presented at the GenAI4Health workshop at AAAI 2025*
 **Research output:**  
 - The Numbers and Narrative of Bankruptcy: Interpretable Multi-Modal Business Failure Prediction  
 **Henri Arno**, Klaas Mulier, Joke Baeck and Thomas Demeester (2025)  
-Journal: *Annals of Operations Research (ANOR)*
+Journal: *Annals of Operations Research (ANOR)*  
 Special Issue: *Ensemble Learning for Operations Research and Business Analytics*  
 [`paper`](https://scholar.google.be/citations?user=ce8BmFgAAAAJ&hl=nl)
 
