@@ -14,7 +14,7 @@ permalink: /research/
 - From Text to Treatment Effects: A Meta-Learning Approach to Handling Text-Based Confounding  
 **Henri Arno**, Paloma Rabaey, and Thomas Demeester (2024)  
 Workshop: *Presented at the Causal Representation Learning workshop at NeurIPS 2024*  
-[`paper`](https://arxiv.org/abs/2409.15503v2)
+[`paper`](https://openreview.net/forum?id=wizeKpiYOb)
 
 - SynSUM - Synthetic Benchmark with Structured and Unstructured Medical Records  
 Paloma Rabaey, **Henri Arno** and Thomas Demeester (2024)  
@@ -29,11 +29,12 @@ Workshop: *Presented at the GenAI4Health workshop at AAAI 2025*
 **Henri Arno**, Klaas Mulier, Joke Baeck and Thomas Demeester (2025)  
 Journal: *Annals of Operations Research (ANOR)*  
 Special Issue: *Ensemble Learning for Operations Research and Business Analytics*  
-[`paper`](https://scholar.google.be/citations?user=ce8BmFgAAAAJ&hl=nl)
+[`paper`](https://scholar.google.be/citations?user=ce8BmFgAAAAJ&hl=nl) [`code`](https://github.com/henriarnoUG/ECL)
 
 - Ontwikkeling van een AI-Model voor de Kamer voor Ondernemingen in Moeilijkheden bij de Ondernemingsrechtbank
 Joke Baeck, **Henri Arno**, Tibe Habils, Klaas Mulier and Thomas Demeester (2024)  
-Journal: *Published in the legal journal "Tijdschrift voor privaatrecht" (Dutch only)*  
+Journal: *Tijdschrift voor Privaatrecht (TPR - Dutch)*  
+Special Issue: *Liber Amicorum Matthias Storme*  
 [`paper`](https://biblio.ugent.be/publication/01J9X3QVPZWV4XMKX0ZHA5D06J)
 
 - From Numbers to Words: Multi-Modal Bankruptcy Prediction Using the ECL Dataset  
