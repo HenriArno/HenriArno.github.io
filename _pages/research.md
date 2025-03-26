@@ -25,7 +25,7 @@ Workshop: *Presented at the GenAI4Health workshop at AAAI 2025*
 **Description**: In Belgium, each commercial court has one or more Chambers for Companies in Difficulty (CCDs) that detect, investigate and monitor financially distressed companies. Recognizing the inefficiencies of manually selection, the goal of this project is to assist the judges of the commercial courts in the detection of companies in financial distress through predictive modeling. To this end, we have developed and evaluated several models to detect financial distress from both the numerical accounting data and the textual disclosures in corporate filings. 
 
 **Research output:**  
-- The Numbers and Narrative of Bankruptcy: Interpretable Multi-Modal Business Failure Prediction  
+- Business Failure Prediction From Textual and Tabular Data With Sentence-Level Interpretations  
 **Henri Arno**, Klaas Mulier, Joke Baeck and Thomas Demeester (2025)  
 Journal: *Annals of Operations Research (ANOR)*  
 Special Issue: *Ensemble Learning for Operations Research and Business Analytics*  
