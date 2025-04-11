@@ -31,7 +31,7 @@ Journal: *Annals of Operations Research (ANOR)*
 Special Issue: *Ensemble Learning for Operations Research and Business Analytics*  
 [`paper`](https://scholar.google.be/citations?user=ce8BmFgAAAAJ&hl=nl) [`code`](https://github.com/henriarnoUG/ECL)
 
-- Ontwikkeling van een AI-Model voor de Kamer voor Ondernemingen in Moeilijkheden bij de Ondernemingsrechtbank
+- Ontwikkeling van een AI-Model voor de Kamer voor Ondernemingen in Moeilijkheden bij de ondernemingsrechtbank
 Joke Baeck, **Henri Arno**, Tibe Habils, Klaas Mulier and Thomas Demeester (2024)  
 Journal: *Tijdschrift voor Privaatrecht (TPR - Dutch)*  
 Special Issue: *Liber Amicorum Matthias Storme*  
