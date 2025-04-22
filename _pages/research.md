@@ -29,7 +29,7 @@ Workshop: *Presented at the GenAI4Health workshop at AAAI 2025*
 **Henri Arno**, Klaas Mulier, Joke Baeck and Thomas Demeester (2025)  
 Journal: *Annals of Operations Research (ANOR)*  
 Special Issue: *Ensemble Learning for Operations Research and Business Analytics*  
-[`paper`](https://scholar.google.be/citations?user=ce8BmFgAAAAJ&hl=nl) [`code`](https://github.com/henriarnoUG/ECL)
+[`paper`](https://link.springer.com/article/10.1007/s10479-025-06574-z) [`code`](https://github.com/henriarnoUG/ECL)
 
 - Ontwikkeling van een AI-Model voor de Kamer voor Ondernemingen in Moeilijkheden bij de ondernemingsrechtbank
 Joke Baeck, **Henri Arno**, Tibe Habils, Klaas Mulier and Thomas Demeester (2024)  
