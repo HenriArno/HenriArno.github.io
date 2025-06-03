@@ -8,8 +8,9 @@ redirect_from:
 ---
 I am an interdisciplinary PhD candidate at Ghent University, part of the [Text-to-Knowledge](https://ugentt2k.github.io/) research group, working on causal machine learning, NLP and predictive modeling. My ongoing research, funded by the Research Foundation Flanders (FWO), is focused on causal inference from unstructured data. Find my most recent paper [here](https://arxiv.org/abs/2409.15503v3).
 
-Background
+Academic timeline
 ======
+- `2025` Awarded a grant from the Research Foundation Flanders (FWO) for a long stay abroad (3 months) at the Causal Machine Learning lab at LMU Munich (Sept. - Nov.)
 - `2023-2027` Awarded a grant from the Research Foundation Flanders (FWO) for fundamental research in causal machine learning (started Nov. 2023)
 - `2021-2023` Contributed to a research project aiming to assist judges in commercial court with the detection of financially distressed firms through predictive modeling
 - `2019-2021` Developed an interest in computer science throughout my M.Sc. in Business Engineering: Data Analytics
