@@ -28,12 +28,11 @@ February 2023 - Ghent, Belgium
 During my PhD, I participated in the teaching activities outlined below.
 
 - **Master thesis supervision**
-  - *Completed:* Closely supervised the thesis of 7 master students (diverse topics)  
-  - *Ongoing:* Currently supervising the thesis of 6 master students (diverse topics)  
+  - *Completed:* Closely supervised the thesis of 12 master students (diverse topics)  
+  - *Ongoing:* Currently supervising the thesis of 1 master student (diverse topics)  
   - *Programs:* master business engineering: data analytics / master computer science engineering 
 
 - **Teaching assistance**
+  - Machine-learning based natural language processing (master computer science engineering)    
   - Financial modeling (master business engineering)
   - Topics in corporate finance (master business engineering)
-  - Machine-learning based natural language processing (master computer science engineering)    
-  
