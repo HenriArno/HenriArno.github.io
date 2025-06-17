@@ -10,7 +10,7 @@ I am an interdisciplinary PhD candidate at Ghent University, part of the [Text-t
 
 Academic timeline
 ======
-- `2025` Awarded a grant from the Research Foundation Flanders (FWO) for a long stay abroad (3 months) at the Causal Machine Learning Lab at LMU Munich (Sept. - Nov.)
+- `2025` Awarded a grant from the Research Foundation Flanders (FWO) for a long stay abroad (3 months) at the Causal Machine Learning Lab at LMU Munich (Sept. - Dec.)
 - `2023-2027` Awarded a grant from the Research Foundation Flanders (FWO) for fundamental research in causal machine learning (started Nov. 2023)
 - `2021-2023` Contributed to a research project aiming to assist judges in commercial court with the detection of financially distressed firms through predictive modeling
 - `2019-2021` Developed an interest in computer science throughout my M.Sc. in Business Engineering: Data Analytics
