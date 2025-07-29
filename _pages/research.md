@@ -11,12 +11,18 @@ permalink: /research/
 -->
 
 **Research output:**  
+
+- Personalized Treatment Effect Estimation from Unstructured Data  
+**Henri Arno** and Thomas Demeester (2025)  
+ArXiv preprint  
+[`paper`](https://arxiv.org/abs/2507.20993) [`code`](https://anonymous.4open.science/r/cate-unstructured-2075/README.md)
+
 - From Text to Treatment Effects: A Meta-Learning Approach to Handling Text-Based Confounding  
 **Henri Arno**, Paloma Rabaey, and Thomas Demeester (2024)  
 Workshop: *Presented at the Causal Representation Learning workshop at NeurIPS 2024*  
 [`paper`](https://arxiv.org/abs/2409.15503v3)
 
-- SynSUM - Synthetic Benchmark with Structured and Unstructured Medical Records  
+- SimSUM: Simulated Benchmark with Structured and Unstructured Medical Records  
 Paloma Rabaey, **Henri Arno** and Thomas Demeester (2024)  
 Workshop: *Presented at the GenAI4Health workshop at AAAI 2025*  
 [`paper`](https://arxiv.org/abs/2409.08936)  
