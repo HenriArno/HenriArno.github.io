@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an interdisciplinary PhD candidate at Ghent University, part of the [Text-to-Knowledge](https://ugentt2k.github.io/) research group, working on causal machine learning, NLP and predictive modeling. My ongoing research, funded by the Research Foundation Flanders (FWO), is focused on causal inference from unstructured data. Find my most recent paper [here](https://arxiv.org/abs/2409.15503v3).
+I am an interdisciplinary PhD candidate at Ghent University, part of the [Text-to-Knowledge](https://ugentt2k.github.io/) research group, working on causal machine learning, NLP and predictive modeling. My ongoing research, funded by the Research Foundation Flanders (FWO), is focused on causal inference from unstructured data. Find my most recent paper [here](https://arxiv.org/abs/2507.20993).
 
 Academic timeline
 ======
