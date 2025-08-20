@@ -14,7 +14,7 @@ permalink: /research/
 
 - Personalized Treatment Effect Estimation from Unstructured Data  
 **Henri Arno** and Thomas Demeester (2025)  
-ArXiv preprint  
+ArXiv preprint - working paper  
 [`paper`](https://arxiv.org/abs/2507.20993) [`code`](https://anonymous.4open.science/r/cate-unstructured-2075/README.md)
 
 - From Text to Treatment Effects: A Meta-Learning Approach to Handling Text-Based Confounding  
