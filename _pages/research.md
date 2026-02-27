@@ -24,9 +24,9 @@ Workshop: *Presented at the Causal Representation Learning workshop at NeurIPS 2
 [`paper`](https://arxiv.org/abs/2409.15503v3)
 
 - SynSUM: Synthetic Benchmark with Structured and Unstructured Medical Records  
-Paloma Rabaey, **Henri Arno** and Thomas Demeester (2024)  
+Paloma Rabaey, **Henri Arno**, Stefan Heytens, and Thomas Demeester (2024)  
 Workshop: *Presented at the GenAI4Health workshop at AAAI 2025*  
-[`paper`](https://arxiv.org/abs/2409.08936)  
+[`paper`](https://arxiv.org/abs/2409.08936v2)  
 
 
 
