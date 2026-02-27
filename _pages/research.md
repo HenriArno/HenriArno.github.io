@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 ### Causal Machine Learning
-My core research develops causal inference methods for data-driven decision support. I study treatment effect estimation, ranking and policy learning from observational data, with potentially complex input modalities such as text. This line of work combines theory with realistic data properties for reliable decision support systems.
+My core research develops causal inference methods for data-driven decision support. I study treatment effect estimation, ranking and policy learning from observational data, with potentially complex input modalities such as text. This line of work combines theory with realistic data properties for reliable decision support systems. [Scholar](https://scholar.google.be/citations?user=ce8BmFgAAAAJ&hl=nl) is always up-to-date.
 
 **Research output:**  
 - Rank-Learner: Orthogonal Ranking of Treatment Effects  
