@@ -11,7 +11,7 @@ I’m a PhD candidate at **Ghent University** (Text-to-Knowledge Research Group)
 
 **Research interests**
 - Robust decision-making under covariate shift and selection bias
-- Causal inference with multimodal data (text and tabular)
+- Causal inference with multimodal data
 - Applications in healthcare and marketing
 
 **Latest work:** [Preprint on ArXiv](https://arxiv.org/abs/2602.03517).
