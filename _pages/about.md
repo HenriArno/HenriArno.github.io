@@ -16,7 +16,6 @@ I’m a PhD candidate at **Ghent University** (Text-to-Knowledge Research Group)
 
 **Latest work:** [Preprint on ArXiv](https://arxiv.org/abs/2602.03517).
 
----
 
 ## Experience
 
