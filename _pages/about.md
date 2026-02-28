@@ -23,11 +23,13 @@ I’m a PhD candidate at **Ghent University** (Text-to-Knowledge Research Group)
 Fundamental research project in causal machine learning, funded by the Research Foundation Flanders (FWO).
 - Develop methods for causal inference in observational/real-world settings
 - Focus on decision support: realistic data properties, estimation, robustness
+
 ---
 **Visiting researcher**, LMU Munich (Causal Machine Learning Lab, Prof. Stefan Feuerriegel)  
 *Sep 2025 – Dec 2025,  Munich, Germany*  
 Research stay funded by an FWO long stay abroad grant.
 - Collaboration on a methodological causal ML project
+
 ---
 **Researcher**, Ghent University (Interdisciplinary)
 *Sep 2021 – Nov 2023,  Ghent, Belgium*  
