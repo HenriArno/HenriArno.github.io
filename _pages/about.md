@@ -31,7 +31,7 @@ Research stay funded by an FWO long stay abroad grant.
 - Collaboration on a methodological causal ML project
 
 ---
-**Researcher**, Ghent University (Interdisciplinary)
+**Researcher**, Ghent University (Interdisciplinary)  
 *Sep 2021 – Nov 2023,  Ghent, Belgium*  
 Interdisciplinary applied ML project for decision support in commercial court.
 - Developed proof-of-concept ML systems to detect companies in financial distress
