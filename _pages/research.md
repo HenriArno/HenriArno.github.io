@@ -3,7 +3,7 @@ title: "Research projects"
 layout: archive
 permalink: /research/
 ---
-
+---
 ### Causal Machine Learning
 My core research develops causal inference methods for data-driven decision support. I study treatment effect estimation, ranking and policy learning from observational data, with potentially complex input modalities such as text. This line of work combines theory with realistic data properties for reliable decision support systems. [Scholar](https://scholar.google.be/citations?user=ce8BmFgAAAAJ&hl=nl) is always up-to-date.
 
@@ -28,8 +28,7 @@ Paloma Rabaey, **Henri Arno**, Stefan Heytens, and Thomas Demeester (2024)
 Workshop: *Presented at the GenAI4Health workshop at AAAI 2025*  
 [`paper`](https://arxiv.org/abs/2409.08936v2)  
 
-
-
+---
 ### ML-based Decision Support for Commercial Court 
 During a two-year interdisciplinary research project, I developed machine learning systems to support Belgian commercial courts in the early detection of financially distressed firms. This work combined structured accounting data and textual corporate disclosures, with an emphasis on performance and interpretability. The project bridged machine learning methodology with legal and economic expertise.
 
