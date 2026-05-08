@@ -20,16 +20,16 @@ ArXiv preprint
 
 - *From Text to Treatment Effects: A Meta-Learning Approach to Handling Text-Based Confounding*  
 **Henri Arno**, Paloma Rabaey, and Thomas Demeester (2024)  
-Causal Representation Learning workshop at NeurIPS 2024  
+Causal Representation Learning Workshop at NeurIPS 2024  
 [`paper`](https://arxiv.org/abs/2409.15503v3)
 
 - *SynSUM: Synthetic Benchmark with Structured and Unstructured Medical Records*  
 Paloma Rabaey, **Henri Arno**, Stefan Heytens, and Thomas Demeester (2024)  
-GenAI4Health workshop at AAAI 2025  
+GenAI4Health Workshop at AAAI 2025  
 [`paper`](https://arxiv.org/abs/2409.08936v2)  
 
 ---
-### ML-based Decision Support for Commercial Court 
+### ML-Based Decision Support for Commercial Court 
 During a two-year interdisciplinary research project, I developed machine learning systems for the early detection of financially distressed firms in Belgian commercial courts. The work combined structured accounting data and textual corporate disclosures, with an emphasis on predictive performance and interpretability, and bridged machine learning methodology with legal and economic domain expertise.
 
 **Research output:**  
