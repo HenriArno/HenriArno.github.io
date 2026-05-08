@@ -14,7 +14,7 @@ I’m a PhD candidate at **Ghent University** (Text-to-Knowledge Research Group)
 - Causal inference with multimodal data
 - Applications in healthcare and marketing
 
-**Latest work:** [Preprint on ArXiv](https://arxiv.org/abs/2602.03517).
+**Latest work:** [Rank-Learner: Orthogonal Ranking of Treatment Effects](https://arxiv.org/abs/2602.03517).
 
 
 ## Experience
