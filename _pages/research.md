@@ -10,7 +10,7 @@ My core research develops causal inference methods for data-driven decision supp
 **Research output:**  
 - Rank-Learner: Orthogonal Ranking of Treatment Effects  
 **Henri Arno**, Dennis Frauen, Emil Javurek, Thomas Demeester and Stefan Feuerriegel (2026)  
-Conference: *International Conference on Machine Learning (ICML)*  
+Conference: *International Conference on Machine Learning (ICML 2026)*  
 [`paper`](https://arxiv.org/abs/2602.03517) [`code`](https://github.com/henriarnoUG/rank-learner)
 
 - Annotation-Assisted Learning of Treatment Policies From Multimodal Electronic Health Records  
@@ -48,7 +48,9 @@ Workshop: *6th Workshop on Financial Tech. and Natural Language Processing at IJ
 **Henri Arno**, Klaas Mulier, Joke Baeck and Thomas Demeester (2022)  
 Workshop: *4th Workshop on Financial Tech. and Natural Language Processing at IJCAI-ECAI 2022*  
 [`paper`](https://aclanthology.org/2022.finnlp-1.25/) [`code`](https://github.com/henriarnoUG/ECL)
+
 ---
+
 - Developing an AI Model for the Detection of Financially Distressed Companies by Belgian Commercial Courts    
 Joke Baeck, **Henri Arno**, Stijn Van Ruymbeke, Aruna Audenaert, Tibe Habils, Klaas Mulier, and Thomas Demeester (2025)  
 Journal: *The European Insolvency and Restructuring Journal*  
