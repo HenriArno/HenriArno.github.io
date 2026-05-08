@@ -55,7 +55,7 @@ Joke Baeck, **Henri Arno**, Stijn Van Ruymbeke, Aruna Audenaert, Tibe Habils, Kl
 The European Insolvency and Restructuring Journal  
 [`paper`](https://eirjournal.com/article/view/23613)
 
-- Ontwikkeling van een AI-Model voor de Kamer voor Ondernemingen in Moeilijkheden bij de ondernemingsrechtbank*  
+- *Ontwikkeling van een AI-Model voor de Kamer voor Ondernemingen in Moeilijkheden bij de ondernemingsrechtbank*  
 Joke Baeck, **Henri Arno**, Tibe Habils, Klaas Mulier and Thomas Demeester (2024)  
 Tijdschrift voor Privaatrecht (Dutch)  
 [`paper`](https://biblio.ugent.be/publication/01J9X3QVPZWV4XMKX0ZHA5D06J)
