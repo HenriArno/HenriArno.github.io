@@ -14,7 +14,7 @@ I’m a PhD candidate at **Ghent University** and an **FWO fellow**, working on 
 - Orthogonal / debiased machine learning
 - Applications in healthcare, marketing, and recommender systems
 
-My latest work, **Rank-Learner: Orthogonal Ranking of Treatment Effects**, introduces a Neyman-orthogonal learning objective for directly ranking individuals by their treatment effects. Developed in collaboration with LMU Munich, the paper was accepted at ICML 2026. [ArXiv.](https://arxiv.org/abs/2602.03517)
+My latest work, **Rank-Learner: Orthogonal Ranking of Treatment Effects**, introduces a Neyman-orthogonal learning objective for directly ranking individuals by their treatment effects. Developed in collaboration with LMU Munich, the paper was accepted at ICML 2026 [(ArXiv)](https://arxiv.org/abs/2602.03517).
 
 ## Experience
 
