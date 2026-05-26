@@ -32,7 +32,7 @@ LMU Munich, Causal Machine Learning Lab
 Hosted by Prof. Stefan Feuerriegel  
 `Sep 2025 – Dec 2025 · Munich, Germany`
 
-Research stay funded by an FWO long stay abroad grant. Conducted methodological research in causal machine learning, resulting in the ICML 2026 paper *Rank-Learner: Orthogonal Ranking of Treatment Effects*.
+Research stay funded by a long stay abroad grant of the Research Foundation Flanders (FWO). Conducted methodological research in causal machine learning, resulting in the ICML 2026 paper *Rank-Learner: Orthogonal Ranking of Treatment Effects*.
 
 ---
 
