@@ -9,8 +9,8 @@ My research develops causal machine learning methods for decision-making from ob
 
 #### Research topics: 
 
-- **Decision-aligned causal inference.**  
-  A line of work on learning treatment effect rankings directly from observational data, with a focus on decision-oriented causal objectives and orthogonal learning methods.
+- **Decision-focused causal inference.**  
+  A line of work on causal inference from observational data, with a focus on orthogonal / debiased learning methods aligned with the downstream decision-problem.
 
   - *Rank-Learner: Orthogonal Ranking of Treatment Effects*  
   **Henri Arno**, Dennis Frauen, Emil Javurek, Thomas Demeester and Stefan Feuerriegel (2026)  
