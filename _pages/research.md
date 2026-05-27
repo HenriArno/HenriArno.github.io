@@ -15,8 +15,6 @@ My research focuses on causal machine learning for decision support from observa
   International Conference on Machine Learning (ICML 2026)  
   [`paper`](https://arxiv.org/abs/2602.03517) [`code`](https://github.com/henriarnoUG/rank-learner)
 
----
-
 - **Multimodal causal inference.**  
   A line of work on treatment effect estimation and policy learning from multimodal observational data, with a particular focus on healthcare applications.
 
@@ -56,8 +54,6 @@ During a two-year interdisciplinary research project, I developed proof-of-conce
   **Henri Arno**, Klaas Mulier, Joke Baeck and Thomas Demeester (2022)  
   IJCAI-ECAI 2022 Workshop on FinTech and Natural Language Processing (FinNLP)  
   [`paper`](https://aclanthology.org/2022.finnlp-1.25/) [`code`](https://github.com/henriarnoUG/ECL)
-
----
 
 - **ML-based decision support in commercial courts.**  
   Research on the integration of predictive modeling systems into Belgian commercial courts for the early detection of financially distressed firms.
