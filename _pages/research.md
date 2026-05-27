@@ -47,7 +47,7 @@ During a two-year interdisciplinary research project, I developed proof-of-conce
 
   - *From Numbers to Words: Multi-Modal Bankruptcy Prediction Using the ECL Dataset*  
   **Henri Arno**, Klaas Mulier, Joke Baeck and Thomas Demeester (2023)  
-  IJCNLP-AACL 2023 Workshop on FinTech and Natural Language Processing (FinNLP) 
+  IJCNLP-AACL 2023 Workshop on FinTech and Natural Language Processing (FinNLP)  
   [`paper`](https://aclanthology.org/2023.finnlp-2.2/) [`code`](https://github.com/henriarnoUG/ECL)
 
   - *Next-Year Bankruptcy Prediction from Textual Data: Benchmark and Baselines*  
