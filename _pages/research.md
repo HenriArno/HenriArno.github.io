@@ -10,14 +10,14 @@ My research develops causal machine learning methods for decision-making from ob
 #### Research topics: 
 
 - **Decision-focused causal inference.**  
-  A line of work on causal inference from observational data, with a focus on orthogonal / debiased learning methods aligned with the downstream decision-problem.
+  A line of work on causal inference from observational data, with a focus on orthogonal and debiased learning methods aligned with downstream decision-making.
 
   - *Rank-Learner: Orthogonal Ranking of Treatment Effects*  
   **Henri Arno**, Dennis Frauen, Emil Javurek, Thomas Demeester and Stefan Feuerriegel (2026)  
   International Conference on Machine Learning (ICML 2026)  
   [`paper`](https://arxiv.org/abs/2602.03517) [`code`](https://github.com/henriarnoUG/rank-learner)
 
-- **Multimodal causal inference and policy learning.**  
+- **Multimodal causal inference.**  
   A line of work on treatment effect estimation and policy learning from multimodal observational data, with applications in healthcare based on electronic health records.
 
   - *Annotation-Assisted Learning of Treatment Policies From Multimodal Electronic Health Records*  
