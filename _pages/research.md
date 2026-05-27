@@ -5,10 +5,10 @@ permalink: /research/
 ---
 ---
 ### Causal Machine Learning
-My research develops causal machine learning methods for decision support from observational data. In particular, I study how treatment effect estimation, ranking, and policy learning methods can be adapted to realistic data settings. [Google Scholar](https://scholar.google.be/citations?user=ce8BmFgAAAAJ&hl=nl) is always up-to-date.
+My research focuses on causal machine learning for decision support from observational data. In particular, I study how methods for treatment effect estimation, ranking, and policy learning can be adapted to realistic data settings. [Google Scholar](https://scholar.google.be/citations?user=ce8BmFgAAAAJ&hl=nl) is always up-to-date.
 
 - **Causal inference for downstream decision support.**   
-  A line of work on applying causal inference methods to downstream decision problems such as treatment effect ranking and policy learning.
+  A line of work on applying causal inference methods to downstream decision problems such as ranking treatment effects.
 
   - *Rank-Learner: Orthogonal Ranking of Treatment Effects*  
   **Henri Arno**, Dennis Frauen, Emil Javurek, Thomas Demeester and Stefan Feuerriegel (2026)  
@@ -34,8 +34,8 @@ My research develops causal machine learning methods for decision support from o
     [`paper`](https://arxiv.org/abs/2409.08936v2)  
 
 ---
-### Judicial Decision Support Through Business Failure Prediction
-During a two-year interdisciplinary research project, I developed machine learning systems for the early detection of financially distressed firms in collaboration with Belgian commercial courts. The work combined structured financial data and textual corporate disclosures, with a focus on predictive performance and interpretability.
+### Business Failure Prediction and Judicial Decision Support
+During a two-year interdisciplinary research project, I developed proof-of-concept machine learning systems for the early detection of financially distressed firms in collaboration with Belgian commercial courts. The work focused on multimodal business failure prediction from financial data and textual corporate disclosures.
 
 - **Multimodal business failure prediction.**  
   A line of work studying how textual corporate disclosures can improve business failure prediction models based on financial data.
@@ -56,7 +56,7 @@ During a two-year interdisciplinary research project, I developed machine learni
   [`paper`](https://aclanthology.org/2022.finnlp-1.25/) [`code`](https://github.com/henriarnoUG/ECL)
 
 - **ML-based decision support in commercial courts.**  
-  Research on the integration of predictive modeling systems into judicial workflows for the early detection of financially distressed firms.
+  Research on the integration of predictive modeling systems into Belgian commercial courts for the early detection of financially distressed firms.
 
   - *Developing an AI Model for the Detection of Financially Distressed Companies by Belgian Commercial Courts*    
   Joke Baeck, **Henri Arno**, Stijn Van Ruymbeke, Aruna Audenaert, Tibe Habils, Klaas Mulier, and Thomas Demeester (2025)  
