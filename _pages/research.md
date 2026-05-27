@@ -38,7 +38,7 @@ My research focuses on causal machine learning for decision support from observa
 During a two-year interdisciplinary research project, I developed proof-of-concept machine learning systems for the early detection of financially distressed firms in collaboration with Belgian commercial courts. The work focused on multimodal business failure prediction from financial data and textual corporate disclosures.
 
 - **Multimodal business failure prediction.**  
-  A line of work studying how textual corporate disclosures can improve business failure prediction models based on financial data.
+  A line of work studying how textual corporate disclosures can improve business failure prediction models beyond traditional financial data.
   
   - *Business Failure Prediction From Textual and Tabular Data With Sentence-Level Interpretations*  
   **Henri Arno**, Klaas Mulier, Joke Baeck and Thomas Demeester (2025)  
