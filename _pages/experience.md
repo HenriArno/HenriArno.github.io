@@ -4,6 +4,8 @@ title: "Experience"
 author_profile: true
 ---
 
+---
+
 **PhD Candidate - FWO Fellow**  
 Ghent University, Text-to-Knowledge Lab  
 Supervised by Prof. Thomas Demeester  
@@ -26,4 +28,4 @@ Research stay funded by a long stay abroad grant of the Research Foundation Flan
 Ghent University, Interdisciplinary Research Project  
 `Sep 2021 – Nov 2023 · Ghent, Belgium`
 
-During a two-year interdisciplinary research project, I developed machine learning systems for the early detection of financially distressed firms in Belgian commercial courts. The work combined structured accounting data and textual corporate disclosures, with an emphasis on predictive performance and interpretability.
+During a two-year interdisciplinary research project, I developed proof-of-concept machine learning systems for the early detection of financially distressed firms in collaboration with Belgian commercial courts. The work combined structured financial data and textual disclosures, with a focus on predictive performance and interpretability.
