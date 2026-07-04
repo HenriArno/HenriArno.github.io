@@ -19,8 +19,8 @@ My research focuses on causal machine learning for decision support from observa
   A line of work on treatment effect estimation and policy learning from multimodal observational data, with a particular focus on healthcare applications.
 
   - *Annotation-Assisted Learning of Treatment Policies From Multimodal Electronic Health Records*  
-    **Henri Arno** and Thomas Demeester (2025)  
-    arXiv preprint  
+    **Henri Arno** and Thomas Demeester (2026)  
+    Machine Learning for Healthcare (MLHC 2026)  
     [`paper`](https://arxiv.org/abs/2507.20993) [`code`](https://anonymous.4open.science/r/causal-ehr/README.md)
 
   - *From Text to Treatment Effects: A Meta-Learning Approach to Handling Text-Based Confounding*  
