@@ -31,7 +31,7 @@ author:
   # Academic websites
   arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Arno%2C+H"
   googlescholar    : "https://scholar.google.com/citations?user=ce8BmFgAAAAJ&hl=en"
-  orcid            : "https://orcid.org/0000-0002-3912-5383"
+  orcid            : # ORCID link
 
   # Repositories and software development
   github           : "henriarnoUG"
