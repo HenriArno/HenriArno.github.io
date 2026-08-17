@@ -1,31 +1,32 @@
 ---
 permalink: /experience/
-title: "Experience"
+title: "Academic Experience"
 author_profile: true
 ---
 
 ---
 
 **PhD Candidate - FWO Fellow**  
-Ghent University, Text-to-Knowledge Lab  
-Supervised by Prof. Thomas Demeester  
+Ghent University, Department of Information Technology, IDLab  
+Supervised by Prof. Thomas Demeester, Prof. Klaas Mulier, and Prof. Joke Baeck  
 `Nov 2023 – present · Ghent, Belgium`
 
-Research in causal machine learning for decision support from observational data, funded by the Research Foundation Flanders (FWO). My work focuses on treatment effect estimation and decision-focused learning under confounding and selection bias.
+Research in causal machine learning for data-driven decision support, funded by an FWO PhD Fellowship Fundamental Research. My work focuses on treatment effect estimation, ranking, and policy learning from observational data, with applications in healthcare and business.
 
 ---
 
 **Visiting Researcher**  
-LMU Munich, Causal Machine Learning Lab  
+LMU Munich, Institute of AI in Management, Causal Machine Learning Lab  
 Hosted by Prof. Stefan Feuerriegel  
 `Sep 2025 – Dec 2025 · Munich, Germany`
 
-Research stay funded by a long stay abroad grant of the Research Foundation Flanders (FWO). Conducted methodological research in causal machine learning, resulting in the ICML 2026 paper *Rank-Learner: Orthogonal Ranking of Treatment Effects*.
+Three-month research stay funded by an FWO Grant for a Long Stay Abroad. I worked on methodological questions in causal machine learning, resulting in the ICML 2026 paper *Rank-Learner: Orthogonal Ranking of Treatment Effects*.
 
 ---
 
-**Researcher**  
-Ghent University, Interdisciplinary Research Project  
-`Sep 2021 – Nov 2023 · Ghent, Belgium`
+**PhD Candidate - Interdisciplinary Research Project**  
+Ghent University  
+Supervised by Prof. Thomas Demeester, Prof. Klaas Mulier, and Prof. Joke Baeck  
+`Sep 2021 – Oct 2023 · Ghent, Belgium`
 
-During a two-year interdisciplinary research project, I developed proof-of-concept machine learning systems for the early detection of financially distressed firms in collaboration with Belgian commercial courts. The work combined structured financial data and textual disclosures, with a focus on predictive performance and interpretability.
+Research on business failure prediction and AI-supported decision-making in collaboration with Belgian commercial courts. The project combined financial and textual data and focused on predictive modelling, interpretability, and real-world decision support.
