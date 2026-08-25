@@ -18,4 +18,4 @@ My **recent work** includes *"Rank-Learner: Orthogonal Ranking of Treatment Effe
 
 More broadly, I am interested in how AI systems can be designed and evaluated to support real-world decision-making, and in understanding when these systems create value in practice.
 
-Outside of research, I enjoy endurance sports and serve as vice-president of my local triathlon club, and I’m a big fan of specialty coffee. 🏃☕
+Outside of research, I enjoy endurance sports and serve as vice-president of my local triathlon club. I’m also a big fan of specialty coffee. 🏃☕
