@@ -9,7 +9,7 @@ My current research focuses on causal machine learning for data-driven decision 
 ---
 
 ### Causal Machine Learning for Data-Driven Decision Support
-This research direction focuses on using causal machine learning for downstream decision-making from observational data. Rather than only predicting what is likely to happen, causal methods aim to model how outcomes would change under different actions and which actions are most effective for whom. Within this broader area, I study treatment effect estimation, ranking, and policy learning, with a particular interest in adapting these methods to realistic data settings. This includes learning directly for downstream objectives such as prioritization, working with complex multimodal data, and accounting for limitations in the available data like poor overlap.
+This research direction focuses on using causal machine learning for downstream decision-making from observational data. Rather than only predicting what is likely to happen, causal methods aim to model how outcomes would change under different actions and which actions are most effective for whom. Within this broader area, I study treatment effect estimation, ranking, and policy learning, with a particular interest in adapting these methods to realistic data settings. This includes learning directly for downstream objectives such as prioritization, working with complex multimodal data, and accounting for limitations in the available data such as poor overlap.
 
 **Selected outputs**
 
