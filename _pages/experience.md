@@ -24,9 +24,9 @@ Three-month research stay funded by an FWO Grant for a Long Stay Abroad. I worke
 
 ---
 
-**PhD Candidate - Interdisciplinary Research Project**  
+**Applied ML Research**  
 Ghent University  
 Supervised by Prof. Thomas Demeester, Prof. Klaas Mulier, and Prof. Joke Baeck  
 `Sep 2021 – Oct 2023 · Ghent, Belgium`
 
-Research on business failure prediction and AI-supported decision-making in collaboration with Belgian commercial courts. The project combined financial and textual data and focused on predictive modelling, interpretability, and real-world decision support.
+Developed proof-of-concept machine learning systems to detect companies in financial distress, providing data-driven support to judges in commercial court, as part of an interdisciplinairy research project.
