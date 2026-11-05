@@ -10,9 +10,9 @@ redirect_from:
 I’m a PhD candidate at **Ghent University** working on causal machine learning for data-driven decision support.
 
 **Research interests**
-- Causal inference, treatment effect estimation and policy learning
-- Orthogonal or debiased machine learning methods
-- Applications in healthcare and business
+- Causal inference and treatment effect estimation
+- Offline policy evaluation and learning
+- Orthogonal or debiased machine learning
 
 My **recent work** includes *"Rank-Learner: Orthogonal Ranking of Treatment Effects"*, which introduces a Neyman-orthogonal learning objective for directly ranking individuals by their treatment effects. Developed in collaboration with LMU Munich, the paper was accepted at ICML 2026 ([arXiv](https://arxiv.org/abs/2602.03517)). In addition, *"Annotation-Assisted Learning of Treatment Policies From Multimodal Electronic Health Records"* was accepted at Machine Learning for Healthcare (MLHC) 2026 ([arXiv](https://arxiv.org/abs/2507.20993)).
 
