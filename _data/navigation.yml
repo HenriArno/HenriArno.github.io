@@ -7,6 +7,8 @@
 main:
   - title: "CV"
     url: /CV.pdf
+  - title: "CV"
+    url: /about/
 #  - title: "Research"
 #    url: /research/
 #  - title: "Experience"
