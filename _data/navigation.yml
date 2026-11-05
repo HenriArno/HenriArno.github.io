@@ -5,10 +5,10 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "about"
+    url: /about/
   - title: "CV"
     url: /CV.pdf
-  - title: "CV"
-    url: /about/
 #  - title: "Research"
 #    url: /research/
 #  - title: "Experience"
